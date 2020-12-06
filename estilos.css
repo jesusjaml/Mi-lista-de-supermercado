@@ -1,0 +1,34 @@
+header {
+    font-size: 14px;
+    font-family: Tahoma;
+    color: navy;
+    background-color: lightblue;
+}
+
+section {
+    font-family: Tahoma;
+    color: navy;
+}
+
+i {
+    font-family: Tahoma;
+    color: black;
+    background-color: skyblue;
+}
+
+#text {
+    font-weight: bold;
+    font-family: Tahoma;
+    color: black;
+    background-color: skyblue;
+}
+
+input {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    word-wrap: break-word ;
+  }
+    /*
+    */
